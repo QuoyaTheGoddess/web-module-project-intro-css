@@ -143,5 +143,16 @@ li {
     float: left;
     display: block;
     padding: 8px;
+}
+
+.PlanYourVisit {
+    background-color: #ff754e;
+}
+
+.LearnAboutPark {
+    background-color: #ff754e;
+}
+
+.GetInvolved {
     background-color: #ff754e;
 }
