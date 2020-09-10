@@ -141,10 +141,7 @@ table {
 
 li {
     float: left;
-}
-
-a {
-    display: inline;
-    width: 60px;
-    text-align: center;
+    display: block;
+    padding: 8px;
+    background-color: #ff754e;
 }
