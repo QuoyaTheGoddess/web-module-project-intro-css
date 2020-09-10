@@ -139,9 +139,12 @@ table {
 
 /* Added CSS Reset Above */
 
-li a {
-    display: block;
+li {
+    float: left;
+}
+
+a {
+    display: inline;
     width: 60px;
     text-align: center;
-    background-color: #FF764E;
 }
