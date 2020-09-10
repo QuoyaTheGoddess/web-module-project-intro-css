@@ -139,20 +139,26 @@ table {
 
 /* Added CSS Reset Above */
 
-li {
+.PlanYourVisit {
+    background-color: #ff754e;
+    text-align: center;
     float: left;
     display: block;
     padding: 8px;
 }
 
-.PlanYourVisit {
-    background-color: #ff754e;
-}
-
 .LearnAboutPark {
-    background-color: #ff754e;
+    background-color: #5ED3EB;
+    text-align: center;
+    float: center;
+    display: block;
+    padding: 8px;
 }
 
 .GetInvolved {
-    background-color: #ff754e;
+    background-color: #FFCD69;
+    text-align: center;
+    float: right;
+    display: block;
+    padding: 8px;
 }
