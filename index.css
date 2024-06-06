@@ -191,11 +191,24 @@ select {
   padding: 0;
   margin: 0;
 }
-
+header {
+  display: flex;
+}
 h1 {
   font-family: "Chelsea-Market", cursive;
 }
 
 body {
   font-family: "Roboto Mono", monospace;
+}
+
+section {
+  background-color: #ddb9a3;
+}
+
+footer {
+  background-color: #f9e7dc;
+}
+img {
+  padding: 40px;
 }
