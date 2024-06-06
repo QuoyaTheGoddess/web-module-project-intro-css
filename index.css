@@ -50,14 +50,12 @@
 
 h1 {
   font-family: "Chelsea-Market", cursive;
-  padding-left: 200px;
 }
 
 body {
   font-family: "Roboto Mono", monospace;
 }
 
-.section-one,
 .section-two {
   background-color: #ddb9a3;
 }
@@ -69,11 +67,17 @@ footer {
   height: 300px;
   width: 100%;
 }
-
-header img {
+/* .section-one {
+  display: flex;
+} */
+/* .section-one p,
+h1 {
+  text-align: center;
+} */
+img {
   border-radius: 50%;
-  width: 200px;
-  height: 150px;
+  width: 350px;
+  height: 350px;
 }
 
 .navBar ul li {
