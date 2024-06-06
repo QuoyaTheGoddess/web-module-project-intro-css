@@ -32,8 +32,13 @@ Follow these steps to set up and work on your project:
 
 Once your repository is set up, practice what you learned today to style the site according to the given design. Your complete project should look similar to the desktop image. You should take the following actions, at a minimum:
 
+<<<<<<< HEAD
 - [ + ] Link your CSS stylesheet in the `index.html` and implement a CSS reset 
 - [ +] Markup html semantically, such that it can be styled according to the given desktop image
+=======
+- [ ] Link your CSS stylesheet in the `index.html` and implement a CSS reset 
+- [ ] Markup html semantically, such that it can be styled according to the given desktop image
+>>>>>>> 15af76ca36866a9665d19f88e89e3254a7918a3f
 - [ ] Color the background of items in the navigation bar and footer with the following colors:
   - [ +] Plan your Visit: `#FF764E`
   - [+ ] Learn About the Park: `#5ED3EB`
@@ -69,4 +74,8 @@ The following goals are designed to stretch your knowledge and may require addit
 
 👋 [Assignment help: w3 CSS tutorials](https://www.w3schools.com/css/)
 
+<<<<<<< HEAD
 👀 [Yosemite National Park Official Website](https://www.nps.gov/yose/index.htm)
+=======
+👀 [Yosemite National Park Official Website](https://www.nps.gov/yose/index.htm)
+>>>>>>> 15af76ca36866a9665d19f88e89e3254a7918a3f
